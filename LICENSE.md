@@ -1,4 +1,4 @@
-
+Enhance Bear for macOS with elite Addon for Bear for macOS - custom themes and voice notes, the #1 addon. Includes custom themes and voice notes for a smoother experience.
 
 
 
